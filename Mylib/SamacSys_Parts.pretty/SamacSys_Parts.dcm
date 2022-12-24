@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP HHM1595A1
+D Signal Conditioning 50/100ohm 3-8GHz Ultrawideband Balun
+K
+F https://product.tdk.com/info/en/documents/data_sheet/rf_balun_hhm1595a1_en.pdf
+$ENDCMP
+#
+#End Doc Library

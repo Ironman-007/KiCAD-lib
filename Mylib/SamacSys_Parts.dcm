@@ -1,0 +1,305 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0527450633
+D CONN FFC FPC TOP 6POS 0.50MM R/A
+F https://www.molex.com/pdm_docs/sd/527450433_sd.pdf
+$ENDCMP
+#
+$CMP 0527450697
+D CONN FFC TOP 6POS 0.50MM R/A
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0527450697_FFC_FPC_CONNECTORS.pdf
+$ENDCMP
+#
+$CMP 1734592-6
+D FFC & FPC Connectors FPC CONN. 0.5MM PITCH B/C 6P
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1734592&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1-1734592-6
+$ENDCMP
+#
+$CMP 20021321-00010C4LF
+D Headers & Wire Housings 1.27x1.27mm BTB, Hdr Recept, SMT, 10 Pos
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021321.pdf
+$ENDCMP
+#
+$CMP 20021321-00014C1LF
+D Headers & Wire Housings 20021321-00014C1LF-RECEPTACLE VT SMT
+F https://4donline.ihs.com/images/VipMasterIC/IC/AFCI/AFCI-S-A0003555143/AFCI-S-A0003555143-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP 20021321-00016C4LF
+D Headers & Wire Housings 1.27x1.27mm BTB, Hdr Recept, SMT, 16 Pos
+F https://componentsearchengine.com/Datasheets/1/20021321-00016C4LF.pdf
+$ENDCMP
+#
+$CMP 2450BM14A0002T
+D JOHANSON TECHNOLOGY - 2450BM14A0002T - BALUN, 2.45GHZ, IMPEDANCE MATCHED
+F https://www.mouser.com/datasheet/2/611/2450BM14A0002T-1215760.pdf
+$ENDCMP
+#
+$CMP A-20040
+D CONN MOD JACK 4P4C R/A UNSHLD
+F http://www.assmann-wsw.com/wo/de/produkte/connectors/modular/detail/1467257/
+$ENDCMP
+#
+$CMP AD5933YRSZ-REEL7
+D Data Acquisition ADCs/DACs - Specialized IC 12bit 1 MSPS Impedance Cnvtr
+F https://componentsearchengine.com/Datasheets/1/AD5933YRSZ-REEL7.pdf
+$ENDCMP
+#
+$CMP AD8606ARMZ-REEL
+D Precision, Low Noise, CMOS, Rail-to-Rail,%D Input/Output Operational Amplifiers
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
+$CMP AD8606ARZ
+D AD8606ARZ, Dual Operational Amplifier 10MHz CMOS, R-R, 3, 5V, 8-Pin SOIC
+F http://www.analog.com/static/imported-files/data_sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
+$CMP ADG849YKSZ-REEL7
+D Analog Switch ICs 1.8V to 5.5V 2:1 Mux/SPDT Switch I.C.
+F https://www.mouser.com/datasheet/2/609/ADG849-1502969.pdf
+$ENDCMP
+#
+$CMP ADP5091ACPZ-1-R7
+D Battery Management 200mA ULP Boost CHG SIDO & FCHG LLD
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP5091-5092.pdf
+$ENDCMP
+#
+$CMP ATSAMD21G18A-AU
+D ATMEL - ATSAMD21G18A-AU - MCU, 32BIT, CORTEX-M0+, 48MHZ, TQFP-48
+F http://www.farnell.com/datasheets/1807566.pdf
+$ENDCMP
+#
+$CMP B3U-1000P
+D OMRON ELECTRONIC COMPONENTS - B3U-1000P - SWITCH, SPST-NO, 0.05A, 12V, SMD
+F https://www.omron.com/ecb/products/pdf/en-b3u.pdf
+$ENDCMP
+#
+$CMP DRV8835DSSR
+D Motor / Motion / Ignition Controllers & Drivers 1.5A Low Vlt Stepper Motor
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8835
+$ENDCMP
+#
+$CMP DW1000-I-TR13
+D IC RF TXRX 802.15.4 48-QFN
+F https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf
+$ENDCMP
+#
+$CMP ECS-.327-12.5-12-TR
+D ECS-.327-12.5-12-TR
+F https://www.ecsxtal.com/store/pdf/ECX_12.pdf
+$ENDCMP
+#
+$CMP ECS-.327-12.5-12QS-TR
+D Crystals 32.786kHz 12.5pF 20ppm -40C +125C
+F https://componentsearchengine.com/Datasheets/1/ECS-.327-12.5-12QS-TR.pdf
+$ENDCMP
+#
+$CMP GP2S700HCP
+D SHARP - GP2S700HCP - PHOTOINTERRUPTER
+F https://componentsearchengine.com/Datasheets/1/GP2S700HCP.pdf
+$ENDCMP
+#
+$CMP GRPB052VWVN-RC
+D CONN HEADER .050" 10PS DL PCB AU
+F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/GRPB_%20_2VWVN-RC%2010954-C.pdf
+$ENDCMP
+#
+$CMP KMR621NGLFS
+D Tactile Switches 50mA 32VDC 1.9mmH 2N IP67
+F https:////www.ckswitches.com/media/1907/kmr6.pdf
+$ENDCMP
+#
+$CMP LMP91051MTX_NOPB
+D Configurable AFE for (NDIR) Sensing Applications
+F http://www.ti.com/lit/gpn/lmp91051
+$ENDCMP
+#
+$CMP MLX90614ESF-BAA-000-TU
+D Board Mount Temperature Sensors Digital, plug & play, infrared thermometer in a TO-can
+F https://www.melexis.com/-/media/files/documents/datasheets/mlx90614-datasheet-melexis.pdf
+$ENDCMP
+#
+$CMP MP6513GJ-Z
+D Power Switch ICs - Power Distribution 2.5V-21V 0.8A Half Bridge Motor Driver
+F https://www.mouser.com/datasheet/2/277/MP6513_r1.0-1384349.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NRF24L01P-R
+D RF Transceiver SNGL-CHP ULTR-LW POW 2.4GHz TRNSCVR
+F https://www.mouser.co.uk/datasheet/2/297/nRF24L01P-1187709.pdf
+$ENDCMP
+#
+$CMP NX2520SA-16MHZ-STD-CSW-5
+D NDK 16MHz Crystal Unit +/-15ppm SMD 4-Pin 2.5 x 2 x 0.5mm
+F https://www.ndk.com/images/products/catalog/c_NX2520SA-STD-CSW-5_e.pdf
+$ENDCMP
+#
+$CMP SCD41-D-R2
+D Air Quality Sensor CO2 Sensor 2.5V/3.3V/5V 20-Pin SMD EP
+F https://cz.mouser.com/datasheet/2/682/Sensirion_CO2_Sensors_SCD4x_Datasheet-2010009.pdf
+$ENDCMP
+#
+$CMP SKY13416-485LF
+D RF Switch ICs 100-3000MHz SP6T IL .45dB Iso >31dB
+F https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/701-800/SKY13416_485LF_201679I.pdf
+$ENDCMP
+#
+$CMP TAJP106K010RNJ
+D Tantalum Capacitors - Solid SMD 10V 10uF 10%
+F http://datasheets.avx.com/TAJ.pdf
+$ENDCMP
+#
+$CMP TAJR106M006RNJ
+D AVX 10uF Solid Electrolytic Tantalum Electrolytic Capacitor, 6.3 V dc +/-20%, TAJ Series
+F http://www.farnell.com/datasheets/1680476.pdf
+$ENDCMP
+#
+$CMP TS5A3359DCUR
+D 1-Ohm SP3T Analog Switch 5-V/3.3-V Single-Channel 3:1 Multiplexer/Demultiplexer
+F http://www.ti.com/lit/gpn/ts5a3359
+$ENDCMP
+#
+$CMP ZTP-135SR
+D Infrared Detectors TO-46, 1.3mV Thermopile IR Sensor
+F https://componentsearchengine.com/Datasheets/2/ZTP-135SR.pdf
+$ENDCMP
+#
+$CMP MPC17C724EP
+D Freescale MPC17C724EP, Full Bridge Motor Driver, Portable Electronics Application, 16-Pin QFN
+K
+F https://www.mouser.in/datasheet/2/302/MPC17C724-1127210.pdf
+$ENDCMP
+#
+$CMP 113990584
+D Bluetooth Modules (802.15.1) MDBT50Q-U1M nRF52840 Based BLE Module
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e7aa50208b34f2d7f2f465ca75120735.pdf
+$ENDCMP
+#
+$CMP ESD321DPYR
+D 1-Channel 30 kV ESD Protection Diode With Low Capacitance (< 1pF) in 0402 Package
+K
+F http://www.ti.com/lit/gpn/esd321
+$ENDCMP
+#
+$CMP BQ29732DSER
+D Li-Ion/Li Polymer Advanced Single-Cell Battery Protector IC Family
+K
+F http://www.ti.com/lit/gpn/bq2973
+$ENDCMP
+#
+$CMP DMN3023L-7
+D MOSFET N-Ch Enh Mode FET 30Vdss 20Vgss 51A
+K
+F https://www.diodes.com/assets/Datasheets/DMN3023L.pdf
+$ENDCMP
+#
+$CMP BQ29733DSET
+D Battery Management Li-Ion/Li Polymer Advanced Single-Cell Battery Protector IC Family 6-WSON -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/bq2973.pdf?ts=1626159689941&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DBQ29733DSET%2526nr%253D6
+$ENDCMP
+#
+$CMP DMN2019UTS-13
+D MOSFET 2N-CH 20V 5.4A TSSOP-8
+K
+F https://www.diodes.com/assets/Datasheets/DMN2019UTS.pdf
+$ENDCMP
+#
+$CMP BM1422AGMV
+D ROHM Semiconductor
+K
+F https://www.rohm.com/products/sensors-mems/geomagnetic-sensor-ics/bm1422agmv-product#productDetail
+$ENDCMP
+#
+$CMP MB85RC256VPF-G-JNERE2
+D Memory FRAM 256K (32K x 8) Bit I2C
+K
+F http://www.fujitsu.com/us/Images/MB85RC256V-DS501-00017-3v0-E.pdf
+$ENDCMP
+#
+$CMP BU4S584G2-TL
+D Inverters INVRTR SCHMITT TRGGR 1-ELEMENT 5PIN
+K
+F https://www.digikey.com/en/products/detail/rohm-semiconductor/BU4S584G2-TL/2673631
+$ENDCMP
+#
+$CMP AS7341-DLGT
+D Ambient Light Sensors AS7341-DLGT OLGA8 LF T&RDP
+K
+F https://www.mouser.com/catalog/specsheets/AMS_03152019_AS7341_DS000504_1-00.pdf
+$ENDCMP
+#
+$CMP MAX3491CSD+
+D MAX3491CSD+, Line Transceiver, RS-485, RS-422 10 Mbit/s Differential, 3.3 V, 14-Pin SOIC
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX3483-MAX3491.pdf
+$ENDCMP
+#
+$CMP MAX3086ESD+
+D MAX3086ESD+, Line Transceiver, EIA/TIA-485, RS-485, RS-422 10Mbit/s Differential, 4.75  5.25 V, 14-Pin SOIC
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX3080-MAX3089.pdf
+$ENDCMP
+#
+$CMP MAX3491AEASD+
+D RS-422/RS-485 Interface IC +3.3V-Powered, 20kV ESD-Protected, 20Mbps and Slew-Rate-Limited RS-485/RS-422 Transceivers
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX3483AE-MAX3491AE.pdf
+$ENDCMP
+#
+$CMP AP7312-1833W6-7
+D LDO,Regulator,Pos,reg,3.3V,0.15A,SOT26 DiodesZetex AP7312-1833W6-7, Dual LDO Voltage Regulator, 150mA, 1.8 V, 3.3 V  /-2%, 6-Pin SOT-26
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1771631.pdf
+$ENDCMP
+#
+$CMP AS7341-DLGM
+D Ambient Light Sensors AS7341-DLGM OLGA8 LF T&RDP
+K
+F https://www.mouser.com/catalog/specsheets/AMS_03152019_AS7341_DS000504_1-00.pdf
+$ENDCMP
+#
+$CMP MAX6814XK+
+D IC,TIMER,BICMOS,TSSOP,5PIN,PLASTIC
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX6814.pdf
+$ENDCMP
+#
+$CMP MB85RC256VPNF-G-JNERE1
+D Memory FRAM 246K (32K x 8) Bit I2C
+K
+F http://www.fujitsu.com/us/Images/MB85RC256V-DS501-00017-3v0-E.pdf
+$ENDCMP
+#
+$CMP TC78H670FTG,EL
+D Motor / Motion / Ignition Controllers & Drivers Stepping Mtr Drvr IC
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=68606&prodName=TC78H670FTG
+$ENDCMP
+#
+$CMP S-8200ABE-M6T1U
+D Battery Management Lithium-Ion battery protection (1 cell)
+K
+F https://www.ablic.com/en/doc/datasheet/battery_protection/S8200A_E.pdf
+$ENDCMP
+#
+$CMP TMP112NAIDRLR
+D 1.4V-Capable +/-0.5C Accuracy Digital Temperature Sensor in the Compact SOT-563 Package
+K
+F http://www.ti.com/lit/gpn/tmp112
+$ENDCMP
+#
+$CMP MB85RC64TAPN-G-AMEWE1
+D IC FRAM 64K I2C 3.4MHZ 8SON
+K
+F https://datasheet.lcsc.com/szlcsc/FUJITSU-MB85RC64TAPN-G-AMEWE1_C189905.pdf
+$ENDCMP
+#
+#End Doc Library

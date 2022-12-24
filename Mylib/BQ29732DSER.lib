@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BQ29732DSER
+#/562973/213367/2.49/6/4/Integrated Circuit
+DEF BQ29732DSER IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "BQ29732DSER" 950 200 50 H V L CNN
+F2 "SON50P150X150X80-6N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/bq2973" 950 0 50 H I L CNN
+F4 "Li-Ion/Li Polymer Advanced Single-Cell Battery Protector IC Family" 950 -100 50 H I L CNN "Description"
+F5 "0.8" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BQ29732DSER" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-BQ29732DSER" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ29732DSER?qs=HjC056NR38EUdABiMgTGbg%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "BQ29732DSER" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bq29732dser/texas-instruments?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X N/C 1 0 0 200 R 50 50 0 0 N
+X COUT 2 0 -100 200 R 50 50 0 0 O
+X DOUT 3 0 -200 200 R 50 50 0 0 O
+X V- 6 1100 0 200 L 50 50 0 0 B
+X BAT 5 1100 -100 200 L 50 50 0 0 W
+X VSS 4 1100 -200 200 L 50 50 0 0 W
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

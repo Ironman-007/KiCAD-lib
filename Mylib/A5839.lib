@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# A5839
+#
+DEF A5839 AE 0 40 Y N 1 L N
+F0 "AE" 120 30 50 H V L BNN
+F1 "A5839" 120 -70 50 H V L BNN
+F2 "XCVR_A5839" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Antenova" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+P 2 0 0 10 -40 100 40 100 N
+P 2 0 0 10 40 100 0 60 N
+P 2 0 0 10 0 60 -40 100 N
+P 2 0 0 10 -50 -100 0 -100 N
+P 2 0 0 10 0 -100 50 -100 N
+P 2 0 0 10 -30 -120 30 -120 N
+P 2 0 0 10 -10 -140 10 -140 N
+P 2 0 0 10 0 60 0 -100 N
+X ~ 2 -100 0 100 R 40 40 0 0 P 
+X ~ 3 -100 -100 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

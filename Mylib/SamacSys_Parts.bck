@@ -1,0 +1,159 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0527450633
+D CONN FFC FPC TOP 6POS 0.50MM R/A
+F https://www.molex.com/pdm_docs/sd/527450433_sd.pdf
+$ENDCMP
+#
+$CMP 0527450697
+D CONN FFC TOP 6POS 0.50MM R/A
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0527450697_FFC_FPC_CONNECTORS.pdf
+$ENDCMP
+#
+$CMP 1734592-6
+D FFC & FPC Connectors FPC CONN. 0.5MM PITCH B/C 6P
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1734592&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1-1734592-6
+$ENDCMP
+#
+$CMP 20021321-00010C4LF
+D Headers & Wire Housings 1.27x1.27mm BTB, Hdr Recept, SMT, 10 Pos
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021321.pdf
+$ENDCMP
+#
+$CMP 20021321-00014C1LF
+D Headers & Wire Housings 20021321-00014C1LF-RECEPTACLE VT SMT
+F https://4donline.ihs.com/images/VipMasterIC/IC/AFCI/AFCI-S-A0003555143/AFCI-S-A0003555143-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP 20021321-00016C4LF
+D Headers & Wire Housings 1.27x1.27mm BTB, Hdr Recept, SMT, 16 Pos
+F https://componentsearchengine.com/Datasheets/1/20021321-00016C4LF.pdf
+$ENDCMP
+#
+$CMP 2450BM14A0002T
+D JOHANSON TECHNOLOGY - 2450BM14A0002T - BALUN, 2.45GHZ, IMPEDANCE MATCHED
+F https://www.mouser.com/datasheet/2/611/2450BM14A0002T-1215760.pdf
+$ENDCMP
+#
+$CMP A-20040
+D CONN MOD JACK 4P4C R/A UNSHLD
+F http://www.assmann-wsw.com/wo/de/produkte/connectors/modular/detail/1467257/
+$ENDCMP
+#
+$CMP AD5933YRSZ-REEL7
+D Data Acquisition ADCs/DACs - Specialized IC 12bit 1 MSPS Impedance Cnvtr
+F https://componentsearchengine.com/Datasheets/1/AD5933YRSZ-REEL7.pdf
+$ENDCMP
+#
+$CMP AD8606ARMZ-REEL
+D Precision, Low Noise, CMOS, Rail-to-Rail,%D Input/Output Operational Amplifiers
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
+$CMP AD8606ARZ
+D AD8606ARZ, Dual Operational Amplifier 10MHz CMOS, R-R, 3, 5V, 8-Pin SOIC
+F http://www.analog.com/static/imported-files/data_sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
+$CMP ADG849YKSZ-REEL7
+D Analog Switch ICs 1.8V to 5.5V 2:1 Mux/SPDT Switch I.C.
+F https://www.mouser.com/datasheet/2/609/ADG849-1502969.pdf
+$ENDCMP
+#
+$CMP ADP5091ACPZ-1-R7
+D Battery Management 200mA ULP Boost CHG SIDO & FCHG LLD
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP5091-5092.pdf
+$ENDCMP
+#
+$CMP B3U-1000P
+D OMRON ELECTRONIC COMPONENTS - B3U-1000P - SWITCH, SPST-NO, 0.05A, 12V, SMD
+F https://www.omron.com/ecb/products/pdf/en-b3u.pdf
+$ENDCMP
+#
+$CMP DRV8835DSSR
+D Motor / Motion / Ignition Controllers & Drivers 1.5A Low Vlt Stepper Motor
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8835
+$ENDCMP
+#
+$CMP DW1000-I-TR13
+D IC RF TXRX 802.15.4 48-QFN
+F https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf
+$ENDCMP
+#
+$CMP ECS-.327-12.5-12-TR
+D ECS-.327-12.5-12-TR
+F https://www.ecsxtal.com/store/pdf/ECX_12.pdf
+$ENDCMP
+#
+$CMP ECS-.327-12.5-12QS-TR
+D Crystals 32.786kHz 12.5pF 20ppm -40C +125C
+F https://componentsearchengine.com/Datasheets/1/ECS-.327-12.5-12QS-TR.pdf
+$ENDCMP
+#
+$CMP GRPB052VWVN-RC
+D CONN HEADER .050" 10PS DL PCB AU
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/GRPB_%20_2VWVN-RC%2010954-C.pdf
+$ENDCMP
+#
+$CMP KMR621NGLFS
+D Tactile Switches 50mA 32VDC 1.9mmH 2N IP67
+F https:////www.ckswitches.com/media/1907/kmr6.pdf
+$ENDCMP
+#
+$CMP LMP91051MTX_NOPB
+D Configurable AFE for (NDIR) Sensing Applications
+F http://www.ti.com/lit/gpn/lmp91051
+$ENDCMP
+#
+$CMP MLX90614ESF-BAA-000-TU
+D Board Mount Temperature Sensors Digital, plug & play, infrared thermometer in a TO-can
+F https://www.melexis.com/-/media/files/documents/datasheets/mlx90614-datasheet-melexis.pdf
+$ENDCMP
+#
+$CMP MP6513GJ-Z
+D Power Switch ICs - Power Distribution 2.5V-21V 0.8A Half Bridge Motor Driver
+F https://www.mouser.com/datasheet/2/277/MP6513_r1.0-1384349.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NRF24L01P-R
+D RF Transceiver SNGL-CHP ULTR-LW POW 2.4GHz TRNSCVR
+F https://www.mouser.co.uk/datasheet/2/297/nRF24L01P-1187709.pdf
+$ENDCMP
+#
+$CMP NX2520SA-16MHZ-STD-CSW-5
+D NDK 16MHz Crystal Unit +/-15ppm SMD 4-Pin 2.5 x 2 x 0.5mm
+F https://www.ndk.com/images/products/catalog/c_NX2520SA-STD-CSW-5_e.pdf
+$ENDCMP
+#
+$CMP SKY13416-485LF
+D RF Switch ICs 100-3000MHz SP6T IL .45dB Iso >31dB
+F https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/701-800/SKY13416_485LF_201679I.pdf
+$ENDCMP
+#
+$CMP TAJP106K010RNJ
+D Tantalum Capacitors - Solid SMD 10V 10uF 10%
+F http://datasheets.avx.com/TAJ.pdf
+$ENDCMP
+#
+$CMP TAJR106M006RNJ
+D AVX 10uF Solid Electrolytic Tantalum Electrolytic Capacitor, 6.3 V dc +/-20%, TAJ Series
+F http://www.farnell.com/datasheets/1680476.pdf
+$ENDCMP
+#
+$CMP TS5A3359DCUR
+D 1-Ohm SP3T Analog Switch 5-V/3.3-V Single-Channel 3:1 Multiplexer/Demultiplexer
+F http://www.ti.com/lit/gpn/ts5a3359
+$ENDCMP
+#
+$CMP ZTP-135SR
+D Infrared Detectors TO-46, 1.3mV Thermopile IR Sensor
+F https://componentsearchengine.com/Datasheets/2/ZTP-135SR.pdf
+$ENDCMP
+#
+#End Doc Library

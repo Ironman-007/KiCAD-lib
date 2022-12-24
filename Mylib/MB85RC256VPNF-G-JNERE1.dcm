@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MB85RC256VPNF-G-JNERE1
+D Memory FRAM 246K (32K x 8) Bit I2C
+K
+F http://www.fujitsu.com/us/Images/MB85RC256V-DS501-00017-3v0-E.pdf
+$ENDCMP
+#
+#End Doc Library

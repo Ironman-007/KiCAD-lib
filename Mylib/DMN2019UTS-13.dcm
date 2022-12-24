@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMN2019UTS-13
+D MOSFET 2N-CH 20V 5.4A TSSOP-8
+K
+F https://www.diodes.com/assets/Datasheets/DMN2019UTS.pdf
+$ENDCMP
+#
+#End Doc Library
